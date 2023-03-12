@@ -133,11 +133,12 @@ Observe que podemos adicionar uma mensagem em nosso `commit`. Existem alguns [pa
 
 * `chore` Miscellaneous commits e.g. modifying `.gitignore`
 
+> **Note**
+> 📌  Aqui falamos apenas sobre alguns comandos do Git, mas para trabalhar em um projeto com colaboradores utilizando esta ferramenta é fundamental conhecer suas funcionalidades e aprender a usá-las. Segue uma ótima referência para aprender o que você precisa https://learngitbranching.js.org/. Aqui você aprenderá a trabalhar com Git jogando 🎮.
 
-
-<p class="webnots_quote">
+<!-- <p class="webnots_quote">
 <em>
-📌  Aqui falamos apenas sobre alguns comandos do Git, mas para trabalhar em um projeto com colaboradores utilizando esta ferramenta é fundamental conhecer suas funcionalidades e aprender a usá-las. Segue uma ótima referência para aprender o que você precisa [https://learngitbranching.js.org/](https://learngitbranching.js.org/). Aqui você aprenderá a trabalhar com Git jogando 🎮.
+📌  Aqui falamos apenas sobre alguns comandos do Git, mas para trabalhar em um projeto com colaboradores utilizando esta ferramenta é fundamental conhecer suas funcionalidades e aprender a usá-las. Segue uma ótima referência para aprender o que você precisa https://learngitbranching.js.org/. Aqui você aprenderá a trabalhar com Git jogando 🎮.
 </em>
 </p>
 <style>
@@ -151,7 +152,7 @@ Observe que podemos adicionar uma mensagem em nosso `commit`. Existem alguns [pa
     padding: 5px;
     font-family: monospace;
 }
-</style>
+</style> -->
 
 
 
@@ -205,23 +206,9 @@ pip install -r requirements.txt
 ````
 
 
-<p class="webnots_quote">
-<em>
-📌  Lembre-se de atualizar o arquivo de requirements quando instalar novas dependências. 
-</em>
-</p>
-<style>
-.webnots_quote {
-    background: #7FB3D5  none repeat scroll 0 0;
-    border-color: #808080;
-    border-style: inset;
-    border-width: 0px 0px 0px 15px;
-    color: #ffffff;
-    font-size: 15px;
-    padding: 5px;
-    font-family: monospace;
-}
-</style>
+> **Warning**
+> Lembre-se de atualizar o arquivo de requirements quando instalar novas dependências. 
+
 
 
 
