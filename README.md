@@ -2,7 +2,7 @@
 ![git](https://skillicons.dev/icons?i=bash)
 
 
-Se você tem dificuldade em utilizar o terminal do seu computador, utilizar um thema do [ho-my-zsh](https://ohmyz.sh/). poderá tornar o processo de utilizá-lo mais simples, porém a ferramenta ainda está disponível apenas para sistema `unix`. A seguir é descrito como personalizar seu terminal com [ho-my-zsh](https://ohmyz.sh/).
+Se você tem dificuldade em utilizar o terminal do seu computador, utilizar um thema do [ho-my-zsh](https://ohmyz.sh/) pode tornar o isto mais simples. A seguir é descrito como personalizar seu terminal com [ho-my-zsh](https://ohmyz.sh/).
 
 
 <p align="center">
@@ -95,11 +95,11 @@ Este comando irá abrir o VSCode. Crie um novo arquivo em seu diretório chamado
 
 Edite o arquivo `.gitignore`. Abra em seu navegador o site `https://www.toptal.com/developers/gitignore`. Use as keywords `Python` e `VisualStudioCode` e clique em create. Copie o conteúdo que irá ser exibido e cole em seu `.gitignore`.
 
-Caso você precise trabalhar com arquivos grandes, csv por exemplo, e deseja mantê-los apenas em seu diretório local, 
+Caso você precise trabalhar com arquivos grandes, csv por exemplo, e deseja mantê-los apenas em seu repositório local, 
 você pode fazer isso adicionando-os ao `.gitignore` ou adicionando a 
 intrução para ignorar todos os arquivos da respectiva extenção `*.csv`
 
-Execute os comandos a seguir para adicionar, commitar as alterações e para atualizar o repositório remoto. Observer o que é exibido após cada comando utilizando `git status`.
+Execute os comandos a seguir para adicionar, commitar as alterações e para atualizar o repositório remoto. Observe o que é exibido após cada comando utilizando `git status`.
 
 ```bash
 git status
