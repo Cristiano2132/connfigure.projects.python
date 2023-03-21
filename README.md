@@ -185,7 +185,7 @@ where python3
 Agora que você criou o ambiente virtual, precisará ativá-lo antes de poder usá-lo em seu projeto. Para ativar seu ambiente virtual, execute o código abaixo:
 
 ```bash
-source <virtual-environment-name>/bin/activat
+source <virtual-environment-name>/bin/activate
 ```
 Isso ativará seu ambiente virtual. Note que o caminho do seu terminal irá incluir `<virtual-environment-name>`, indicando que seu ambiente virtual está ativado.
 
