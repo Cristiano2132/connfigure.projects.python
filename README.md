@@ -177,10 +177,6 @@ Por exemplo:
 ```bash
  python3.10 -m venv .venv
 ```
-Para ver quais versões do python estão instaladas em sua máquina, basta utilizar o seguinte comando:
-```bash
-where python3
-```
 
 Agora que você criou o ambiente virtual, precisará ativá-lo antes de poder usá-lo em seu projeto. Para ativar seu ambiente virtual, execute o código abaixo:
 
